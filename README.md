@@ -1,2 +1,2 @@
 # PIC32-Blinky
-Blinky program for pic32mx795f512l
+Blinky program for PIC32MX250F128B
